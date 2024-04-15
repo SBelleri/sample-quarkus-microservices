@@ -11,8 +11,46 @@ Detailed description can be found here: [Quick Guide to Microservices with Quark
 
 **TAG SCRITTURA** 
 
+**STILE:**
+
+**GRASSETTO** 
+
+__GRASSETTO__ 
+
+PAROLA IN **GRASSSETTO** NELLA FRASE
+
+PAROLA IN **GRASSSETTO** NELLA FRASE
+
+_CORSIVO_
+
+***CORSIVO GRASSETTO***
+
+___CORSIVO GRASSETTO___
+
+__*CORSIVO GRASSETTO*__
+
+_**CORSIVO GRASSETTO**_
+
+**ELENCO PUNTATO:**
+
+1. item 1
+1. item 1
+    1. item 2.1
+    1. item 2.1
+1. item 1
+
+
++ item 1
++ item 1
+    - item 2.1
+    + item 2.1
+    - item 2.1
+- item 1
+
+
+
 # SELEZIONE 1
-_CIAO SONO ITALICO_ 
+CIAO SONO ITALICO
 ## SELEZIONE 2
 _CIAO SONO ITALICO_ 
 ### SELEZIONE 3
